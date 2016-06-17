@@ -1,5 +1,7 @@
+@CHARSET "utf-8";
 .impowerBox .qrcode {width: 200px !important;}
 .impowerBox .title {display: none !important;}
 .impowerBox .info {width: 200px !important;}
 .status_icon {display: none !important;}
 .impowerBox .status {text-align: center !important;}
+.impowerBox .qrcode { width: 150px; margin-top: 15px; border: 1px solid #E2E2E2;}
